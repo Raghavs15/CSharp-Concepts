@@ -4,3 +4,9 @@ C:\myFiles\Projects\myCSharpConcepts\myCSharpConcepts\bin\Debug\myCSharpConcepts
 C:\myFiles\Projects\myCSharpConcepts\myCSharpConcepts\obj\Debug\myCSharpConcepts.csprojAssemblyReference.cache
 C:\myFiles\Projects\myCSharpConcepts\myCSharpConcepts\obj\Debug\myCSharpConcepts.exe
 C:\myFiles\Projects\myCSharpConcepts\myCSharpConcepts\obj\Debug\myCSharpConcepts.pdb
+C:\myFiles\Projects\CSharp-Concepts\myCSharpConcepts\bin\Debug\myCSharpConcepts.exe.config
+C:\myFiles\Projects\CSharp-Concepts\myCSharpConcepts\bin\Debug\myCSharpConcepts.exe
+C:\myFiles\Projects\CSharp-Concepts\myCSharpConcepts\bin\Debug\myCSharpConcepts.pdb
+C:\myFiles\Projects\CSharp-Concepts\myCSharpConcepts\obj\Debug\myCSharpConcepts.csprojAssemblyReference.cache
+C:\myFiles\Projects\CSharp-Concepts\myCSharpConcepts\obj\Debug\myCSharpConcepts.exe
+C:\myFiles\Projects\CSharp-Concepts\myCSharpConcepts\obj\Debug\myCSharpConcepts.pdb

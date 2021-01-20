@@ -10,3 +10,4 @@ C:\myFiles\Projects\CSharp-Concepts\myCSharpConcepts\bin\Debug\myCSharpConcepts.
 C:\myFiles\Projects\CSharp-Concepts\myCSharpConcepts\obj\Debug\myCSharpConcepts.csprojAssemblyReference.cache
 C:\myFiles\Projects\CSharp-Concepts\myCSharpConcepts\obj\Debug\myCSharpConcepts.exe
 C:\myFiles\Projects\CSharp-Concepts\myCSharpConcepts\obj\Debug\myCSharpConcepts.pdb
+C:\myFiles\Projects\CSharp-Concepts\myCSharpConcepts\bin\Debug\data.txt

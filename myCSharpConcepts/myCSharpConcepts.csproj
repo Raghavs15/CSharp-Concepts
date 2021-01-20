@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>myCSharpConcepts.Threads.SemaphoreThread</StartupObject>
+    <StartupObject>myCSharpConcepts.Examples.YeildSample</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -51,6 +51,15 @@
     <Compile Include="Delegates\Delegate.cs" />
     <Compile Include="Delegates\FuncDelegate.cs" />
     <Compile Include="Delegates\MulticastDelegate.cs" />
+    <Compile Include="Examples\AnagramCheck.cs" />
+    <Compile Include="Examples\ExtensionMethods.cs" />
+    <Compile Include="Examples\FileReader.cs" />
+    <Compile Include="Examples\Generics.cs" />
+    <Compile Include="Examples\OrderBags.cs" />
+    <Compile Include="Examples\YeildSample.cs" />
+    <Compile Include="OOPS\Abstraction.cs" />
+    <Compile Include="OOPS\Overloading.cs" />
+    <Compile Include="OOPS\Overriding.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Threads\AutoResetEvent.cs" />
@@ -63,6 +72,14 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Events\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="data.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

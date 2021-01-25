@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>myCSharpConcepts.Examples.YeildSample</StartupObject>
+    <StartupObject>myCSharpConcepts.Examples.MultipleAwait</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -53,8 +53,10 @@
     <Compile Include="Delegates\MulticastDelegate.cs" />
     <Compile Include="Examples\AnagramCheck.cs" />
     <Compile Include="Examples\ExtensionMethods.cs" />
+    <Compile Include="Examples\FibonacciSeries.cs" />
     <Compile Include="Examples\FileReader.cs" />
     <Compile Include="Examples\Generics.cs" />
+    <Compile Include="Examples\MultipleAwait.cs" />
     <Compile Include="Examples\OrderBags.cs" />
     <Compile Include="Examples\YeildSample.cs" />
     <Compile Include="OOPS\Abstraction.cs" />
